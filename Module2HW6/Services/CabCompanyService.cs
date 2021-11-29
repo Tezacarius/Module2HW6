@@ -53,7 +53,7 @@ namespace Module2HW6.Services
             _cars = new Car[0];
         }
 
-        public int CarsCost()
+        public int TotalCarsCost()
         {
             var cost = 0;
 

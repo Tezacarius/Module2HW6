@@ -15,6 +15,7 @@ namespace Module2HW6.Models.CarWithoutTrunk
             Manufacturer = "Audi";
             Cost = 250000;
             Currency = Currency.USD;
+            FuelConsumption = 15;
         }
     }
 }
